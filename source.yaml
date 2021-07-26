@@ -11,6 +11,11 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/freefq/free/master/v2
 
 # 订阅链接
@@ -43,3 +48,8 @@
 - type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-48-1.html
+
+# 翻墙党论坛抓取
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-2-1.html
