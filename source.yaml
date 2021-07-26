@@ -11,6 +11,11 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/v2ray-links/v2ray-free/master/v2ray
 
 # 订阅链接
