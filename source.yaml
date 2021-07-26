@@ -11,6 +11,11 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://raw.githubusercontent.com/v2ray-links/v2ray-free/master/v2ray
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
 
 # 订阅链接
@@ -57,6 +62,26 @@
 - type: webfuzz
   options:
     url: https://fx.tmioe.com/free
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/Subeting/Free-ss-ssr-v2ray-share/main/ssr.txt
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/gelangtai/freessr/main/README.md
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/Subeting/Free-ss-ssr-v2ray-share/main/v2ray.txt
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/Subeting/Free-ss-ssr-v2ray-share/main/ss.txt
 
 # tg频道抓取
 - type: tgchannel
