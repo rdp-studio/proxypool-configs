@@ -88,10 +88,26 @@
   options:
     url: https://my.ishadowx.biz/
 
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+
 # tg频道抓取
 - type: tgchannel
   options:
     channel: ssrList
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ShareCentre
     num: 200
 
 # 翻墙党论坛抓取
