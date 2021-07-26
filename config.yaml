@@ -1,0 +1,14 @@
+# your domain
+domain: proxypool.rdpstudio.top
+
+# database url
+database_url: ""
+
+# cloudflare api
+cf_email: "admin@rdpstudio.top"
+cf_key: "1b403c6ef24d1bf40b89176652703e4103d36"
+
+# source definition file
+source-files:
+  # use web file
+  - https://raw.githubusercontent.com/rdp-studio/proxypool-configs/main/source.yaml
