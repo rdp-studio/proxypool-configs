@@ -28,6 +28,26 @@
   options:
     url: https://bulink.me/sub/qe6u9/vm
 
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://jc.fanqiangdang.com/link/ZRqSOJVE0EE1Akm6?sub=2
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://jc.fanqiangdang.com/link/ZRqSOJVE0EE1Akm6?sub=1
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://jc.fanqiangdang.com/link/ZRqSOJVE0EE1Akm6?sub=4
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://jc.fanqiangdang.com/link/ZRqSOJVE0EE1Akm6?sub=3
+
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -53,3 +73,8 @@
 - type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-2-1.html
+
+# 翻墙党论坛抓取
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-36-1.html
