@@ -83,6 +83,11 @@
   options:
     url: https://raw.githubusercontent.com/Subeting/Free-ss-ssr-v2ray-share/main/ss.txt
 
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://my.ishadowx.biz/
+
 # tg频道抓取
 - type: tgchannel
   options:
