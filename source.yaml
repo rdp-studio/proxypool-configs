@@ -8,6 +8,11 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://bulink.me/sub/qe6u9/vm
+
 # 网页模糊抓取
 - type: webfuzz
   options:
