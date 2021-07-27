@@ -142,6 +142,12 @@
     channel: freeshadowsock
     num: 200
 
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
