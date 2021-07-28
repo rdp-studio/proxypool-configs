@@ -16,6 +16,16 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://sub.cm/Ycxtxgy
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://zeroyyds.cc/api/v1/client/subscribe?token=4ced924eda11b55c5c987e813b076b28
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://jiang.netlify.app/
 
 # 订阅链接
