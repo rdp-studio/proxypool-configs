@@ -16,6 +16,11 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://manage.ermao.net/user/subscribe?u=blog&p=fDyim6EdD&t=v2ray
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://qiaomenzhuanfx.netlify.app/
 
 # 订阅链接
