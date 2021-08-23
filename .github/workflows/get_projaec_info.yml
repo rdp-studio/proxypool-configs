@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: 执行任务
       run: |
-        python get_projaec_info.py --user ermaozi --project get_subscribe --save_path project_info.svg --theme dark --token ${{ secrets.TOKEN }}
+        python get_projaec_info.py --user rdp-studio --project proxypool-configs --save_path project_info.svg --theme dark --token ${{ secrets.TOKEN }}
     - name: 提交更改
       run: |
          git config core.ignorecase false
