@@ -27,4 +27,4 @@
 
 ### ⭐ 感谢支持
 
-[![操，图挂了……](https://raw.githubusercontent.com/rdp-studio/proxypool-configs/main/project_info.svg)](https://github.com/rdp-studio/proxypool-configs)
+如果觉得有用请给个Star！
